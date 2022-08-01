@@ -43,10 +43,6 @@ Travel method: driving
 
 *Figure 3: hotels for our 4 cities*
 
-<img width="726" alt="weatherpy_travel_map_markers" src="https://user-images.githubusercontent.com/106577074/182103785-5175dedb-8da7-4db3-bab3-502d696d465e.png">
+<img width="630" alt="WeatherPy_travel_map_markers_1" src="https://user-images.githubusercontent.com/106577074/182104484-38256965-615f-498b-ab3d-20ee6604d087.png">
 
-<img width="636" alt="weatherpy_travel_map_markers_2" src="https://user-images.githubusercontent.com/106577074/182103828-c6d1dcaf-4e30-410a-ad42-542d367de3c5.png">
-
-<img width="652" alt="weatherpy_travel_map_markers_3" src="https://user-images.githubusercontent.com/106577074/182103866-6da297f1-94ff-43cd-bbc8-fba30d909b84.png">
-
-<img width="665" alt="weatherpy_travel_map_markers_4" src="https://user-images.githubusercontent.com/106577074/182103906-a35e13e1-1a7d-4353-a3c8-df5235c9350b.png">
+<img width="618" alt="WeatherPy_travel_map_markers_2" src="https://user-images.githubusercontent.com/106577074/182104507-a8c8acc0-d573-40da-97fe-cb33847abd3e.png">
